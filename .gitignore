@@ -171,4 +171,4 @@ out/
 
 # Git metadata
 .git/
-test.db
+finance.db
